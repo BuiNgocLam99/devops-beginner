@@ -21,3 +21,4 @@ variable "amis" {
     ap-northeast-1 = "ami-06c6f3fa7959e5fdd"
   }
 }
+
