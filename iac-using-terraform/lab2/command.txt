@@ -1,0 +1,16 @@
+# Generate keypair using ssh
+ssh-keygen -t rsa -b 4096 -c "lambn957@gmail.com"
+
+# Enter path for new key: example ./keypair/udemy-key
+
+# Terraform EC2 Instance definition syntax:
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance
+
+# Terraform variable syntax
+https://developer.hashicorp.com/terraform/language/values/variables
+
+# Command Terraform:
+terraform init
+terraform plan
+terraform apply
+terraform destroy
